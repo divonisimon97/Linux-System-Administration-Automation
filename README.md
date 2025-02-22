@@ -6,6 +6,7 @@ In this project, I demonstrates essential system administration skills for both 
 
 
 <h2>Languages and Utilities Used</h2>
+
 - <b>Powershell </b>
 - <b>Terminal </b>
 
