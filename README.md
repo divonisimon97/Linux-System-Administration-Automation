@@ -6,11 +6,13 @@ In this project, I demonstrates essential system administration skills for both 
 
 
 <h2>Languages and Utilities Used</h2>
-- <b>John the Ripper </b> (1.9.0) 
+- <b>Powershell </b>
+- <b>Terminal </b>
 
 <h2>Environments Used </h2>
 
 - <b>Linux</b> (6.11.2)
+- <b>Windows 11</b>
 
 <h2>Program walk-through:</h2>
 
