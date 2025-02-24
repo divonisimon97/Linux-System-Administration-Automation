@@ -42,10 +42,20 @@ Enabling, Starting, and Checking Status of SSH Server: <br/>
 <img src="https://i.imgur.com/loMlDwQ.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
 <br />
 <br />
-Create a new group: <br/>
-<img src="https://i.imgur.com/C83rF3W.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
-
-
+Create the Script File <br/>
+<img src="https://i.imgur.com/zS6zI6R.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+<br />
+<br />
+Write the Script File <br/>
+<img src="https://i.imgur.com/HZdTL38.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+<br />
+<br />
+Make the Script File Executable <br/>
+<img src="https://i.imgur.com/uGbMZ1h.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+<br />
+<br />
+Run the Script <br/>
+<img src="https://i.imgur.com/CEU70OG.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
 
 
 
