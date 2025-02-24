@@ -1,4 +1,4 @@
-# <h1>Windows Linux System Administration </h1>
+# <h1>Linux System Administration Automation Lab </h1>
 
 <h2>Description</h2>
 In this project, I demonstrates essential system administration skills for both Windows and Linux, helping to build a strong foundation in IT support and system management. 
@@ -7,13 +7,11 @@ In this project, I demonstrates essential system administration skills for both 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Powershell </b>
 - <b>Terminal </b>
 
 <h2>Environments Used </h2>
 
 - <b>Linux</b> (6.11.2)
-- <b>Windows 11</b>
 
 <h2>Program walk-through:</h2>
 
@@ -56,7 +54,14 @@ Make the Script File Executable <br/>
 <br />
 Run the Script <br/>
 <img src="https://i.imgur.com/CEU70OG.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
-
+<br />
+<br />
+Scheduled Task to Clean Logs <br/>
+<img src="https://i.imgur.com/sZqg1ar.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+<br />
+<br />
+Final Check for Users <br/>
+<img src="https://i.imgur.com/l2KeOQP.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
 
 
   
