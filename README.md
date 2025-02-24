@@ -1,4 +1,4 @@
-# <h1>Linux System Administration Automation Lab </h1>
+# <h1>Linux System Administration Automation </h1>
 
 <h2>Description</h2>
 In this project, I automate essential Linux system administration tasks using Bash scripting. It covers user and group management, permission settings, SSH configuration, and scheduled maintenance tasks. 
