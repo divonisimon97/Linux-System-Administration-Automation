@@ -34,8 +34,19 @@ Create a New Group & Add New User to Group: <br/>
 <img src="https://i.imgur.com/bNWk300.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
 <br />
 <br />
+Setting Directory Permissions (assigning group ownership to "itadmins" - granting read, write, and execute - ensuring new files inherit the group): <br/>
+<img src="https://i.imgur.com/C72fndu.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+<br />
+<br />
+Enabling, Starting, and Checking Status of SSH Server: <br/>
+<img src="https://i.imgur.com/loMlDwQ.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+<br />
+<br />
 Create a new group: <br/>
 <img src="https://i.imgur.com/C83rF3W.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
+
+
+
 
 
   
