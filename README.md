@@ -1,7 +1,7 @@
 # <h1>Linux System Administration Automation Lab </h1>
 
 <h2>Description</h2>
-In this project, I demonstrates essential system administration skills for both Windows and Linux, helping to build a strong foundation in IT support and system management. 
+In this project, I automate essential Linux system administration tasks using Bash scripting. It covers user and group management, permission settings, SSH configuration, and scheduled maintenance tasks. 
 <br />
 
 
@@ -64,23 +64,6 @@ Final Check for Users <br/>
 <img src="https://i.imgur.com/l2KeOQP.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
 
 
-  
-Enable Bridged Mode (VirtualBox): <br/>
-<img src="https://i.imgur.com/BnOkSt3.png" height="80%" width="80%" alt="Creating a MD5-crypt hash"/>
-<br />
-<br />
-Find your Linux IP Address (under eth0 or ens33): <br/>
-<img src="https://i.imgur.com/HazHnvY.png" height="80%" width="80%" alt="Saving the generated hash"/>
-<br />
-<br />
-Run John the Ripper with the RockYou wordlist: <br/>
-<img src="https://i.imgur.com/Kg25VVo.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
-<br />
-<br />
-Manually View John’s Pot File (optional):  <br/>
-<img src="https://i.imgur.com/zHH23el.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
-<br />
-<br />
 </p>
 
 <!--
